@@ -1,0 +1,233 @@
+[
+  {
+    "image": "https://images.pexels.com/photos/2253275/pexels-photo-2253275.jpeg",
+    "name": "Furry",
+    "max_donation_limit": 3000,
+    "last_donation_date": "2025-04-28",
+    "shortdesp": "Meet Furry, an energetic and friendly Golden Retriever. With his golden coat and playful nature, he brings joy to everyone he meets.",
+    "longdesp": "Furry, our beloved canine companion, is a purebred Golden Retriever who embodies everything wonderful about this breed. His gentle temperament and loyal nature make him the perfect family companion.",
+    "addedDate": "12/4/2025 1:59:41 PM",
+    "userEmail": "simmi@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/12715191/pexels-photo-12715191.jpeg",
+    "name": "Mini",
+    "max_donation_limit": 10000,
+    "last_donation_date": "2025-04-22",
+    "shortdesp": "Join our Bird Pet Donation Campaign to make a difference in the lives of our feathered friends.",
+    "longdesp": "In the spirit of compassion and community, we invite you to join our Bird Pet Donation Campaign. Together, we can provide care, shelter, and love to birds in need.",
+    "addedDate": "12/4/2025 8:58:58 PM",
+    "userEmail": "malini@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/32513713/pexels-photo-32513713.jpeg",
+    "name": "Pichku",
+    "max_donation_limit": 20000,
+    "last_donation_date": "2025-04-23",
+    "shortdesp": "Join our Cat Pet Donation Campaign and become a guardian angel for feline friends in need.",
+    "longdesp": "In the spirit of feline compassion and a love for all things whiskered, we invite you to join our Cat Pet Donation Campaign. Your support helps provide care for cats in need.",
+    "addedDate": "15/4/2025 9:14:50 PM",
+    "userEmail": "supriyaa34@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg",
+    "name": "Don",
+    "max_donation_limit": 4500,
+    "last_donation_date": "2023-12-21",
+    "shortdesp": "In social settings, Don's friendly demeanor shines. Whether making furry friends or greeting visitors, he's always the perfect gentleman.",
+    "longdesp": "Don, our beloved Golden Retriever, embodies the spirit of boundless joy and unwavering loyalty. His friendly nature and social skills make him a beloved member of any community.",
+    "addedDate": "12/4/2023 10:04:01 PM",
+    "userEmail": "anshika@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/1490908/pexels-photo-1490908.jpeg",
+    "name": "Mixii",
+    "max_donation_limit": 43,
+    "last_donation_date": "2023-12-27",
+    "shortdesp": "A golden retriever with a gentle temperament, loves playing fetch and swimming in the lake.",
+    "longdesp": "He's incredibly food-motivated and can perform dozens of tricks for treats. His playful spirit and loving nature make him a wonderful companion.",
+    "addedDate": "12/5/2023 1:00:20 PM",
+    "userEmail": "anshika@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/220974/pexels-photo-220974.jpeg",
+    "name": "Luna",
+    "max_donation_limit": 1000,
+    "last_donation_date": "2024-12-27",
+    "shortdesp": "A striking Siberian husky with one blue eye and one brown eye, creating a mesmerizing heterochromatic gaze.",
+    "longdesp": "Luna is an escape artist who can open gates and doors, leading to neighborhood adventures. Her intelligence and striking appearance make her truly special.",
+    "addedDate": "6/27/2024 10:01:59 PM",
+    "userEmail": "anchal@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/333083/pexels-photo-333083.jpeg",
+    "name": "Max",
+    "max_donation_limit": 1000,
+    "last_donation_date": "2024-11-21",
+    "shortdesp": "A 5-year-old German shepherd with traditional black and tan markings and an alert, intelligent expression.",
+    "longdesp": "He patrols the house nightly, checking on family members and securing the perimeter. His loyalty and protective nature make him an excellent guardian.",
+    "addedDate": "11/21/2024 12:21:26 PM",
+    "userEmail": "sonali@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg",
+    "name": "Bella",
+    "max_donation_limit": 999,
+    "last_donation_date": "2024-11-21",
+    "shortdesp": "A compact tricolor beagle with the classic sad puppy eyes and a tail that never stops wagging.",
+    "longdesp": "Bella bay-howls when excited, particularly when her food bowl appears. Her gentle nature and expressive eyes make her irresistible.",
+    "addedDate": "11/21/2024 12:39:21 PM",
+    "userEmail": "ansh89@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/7725639/pexels-photo-7725639.jpeg",
+    "name": "Whiskers",
+    "max_donation_limit": 1000,
+    "last_donation_date": "2024-11-21",
+    "shortdesp": "A luxurious white Persian cat with fur so long it requires daily brushing to maintain its silky texture.",
+    "longdesp": "Whiskers moves with royal dignity, preferring velvet cushions to common furniture. His regal presence and beautiful coat make him truly majestic.",
+    "addedDate": "11/21/2024 12:51:54 PM",
+    "userEmail": "pranayrawat5777@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/32464783/pexels-photo-32464783.jpeg",
+    "name": "Shadow",
+    "max_donation_limit": 1000,
+    "last_donation_date": "2025-03-17",
+    "shortdesp": "A sleek, muscular black cat whose green eyes glow like emeralds in darkness.",
+    "longdesp": "He's an expert hunter who brings gifts of toy mice to his favorite humans. His mysterious nature and striking appearance make him captivating.",
+    "addedDate": "12/6/2024 11:12:33 AM",
+    "userEmail": "nancy58@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/7725998/pexels-photo-7725998.jpeg",
+    "name": "Mittens",
+    "max_donation_limit": 1000,
+    "last_donation_date": "2025-04-19",
+    "shortdesp": "A robust orange tabby with distinctive white paws that look like he's wearing mittens.",
+    "longdesp": "His round face features prominent whiskers and expressive amber eyes. Mittens loves to play and has a gentle, friendly disposition.",
+    "addedDate": "12/6/2024 11:12:39 AM",
+    "userEmail": "sayali@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/14751278/pexels-photo-14751278.jpeg",
+    "name": "Cleo",
+    "max_donation_limit": 1000,
+    "last_donation_date": "2025-04-17",
+    "shortdesp": "An elegant Siamese cat with cream-colored fur and dark chocolate points on ears, face, and tail.",
+    "longdesp": "Her bright blue eyes are almond-shaped and incredibly expressive. Cleo is vocal and intelligent, always ready to share her opinions.",
+    "addedDate": "12/6/2025 11:12:40 AM",
+    "userEmail": "avayaa23@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/372166/pexels-photo-372166.jpeg",
+    "name": "Snowball",
+    "max_donation_limit": 1000,
+    "last_donation_date": "2025-04-17",
+    "shortdesp": "A pristine white mini lop rabbit with ears that hang like velvet curtains framing his sweet face.",
+    "longdesp": "His fur is incredibly soft, like touching a cloud. Snowball enjoys being petted and has a calm, gentle temperament perfect for families.",
+    "addedDate": "12/6/2024 11:12:42 AM",
+    "userEmail": "aashina344@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/1461876/pexels-photo-1461876.jpeg",
+    "name": "Cocoa",
+    "max_donation_limit": 20000,
+    "last_donation_date": "2025-04-17",
+    "shortdesp": "A chocolate-brown Holland Lop with darker ears and a white blaze down his face.",
+    "longdesp": "His compact body and short ears give him a teddy bear appearance. Cocoa is playful and loves to explore, making him an entertaining companion.",
+    "addedDate": "3/26/2025 10:20:07 AM",
+    "userEmail": "parth.goyal@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/1510544/pexels-photo-1510544.jpeg",
+    "name": "Pepper",
+    "max_donation_limit": 100,
+    "last_donation_date": "2025-05-02",
+    "shortdesp": "A gray and white Dutch rabbit with distinctive markings that look like he's wearing a tuxedo.",
+    "longdesp": "Pepper has learned to open cabinet doors with his teeth and once completely rearranged the kitchen. His intelligence and mischievous nature keep everyone entertained.",
+    "addedDate": "5/2/2025 10:26:59 PM",
+    "userEmail": "parthgoyal607@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/2397448/pexels-photo-2397448.jpeg",
+    "name": "Honey",
+    "max_donation_limit": 200,
+    "last_donation_date": "2025-05-21",
+    "shortdesp": "A beautiful golden-brown rabbit with amber-colored fur that catches light like honey.",
+    "longdesp": "Honey does tricks like spinning in circles and jumping through hoops for treats. Her sweet nature and trick-performing abilities make her a crowd favorite.",
+    "addedDate": "5/2/2025 10:29:08 PM",
+    "userEmail": "parthgoyal607@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/792416/pexels-photo-792416.jpeg",
+    "name": "Charlie",
+    "max_donation_limit": 200,
+    "last_donation_date": "2025-05-21",
+    "shortdesp": "A vibrant scarlet macaw with brilliant red, blue, and yellow feathers that shimmer in sunlight.",
+    "longdesp": "He loves showing off by hanging upside down from his perch and dancing to music. Charlie's intelligence and colorful personality make him truly special.",
+    "addedDate": "5/2/2025 10:29:08 PM",
+    "userEmail": "parthgoyal607@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/31224781/pexels-photo-31224781.jpeg",
+    "name": "Sunny",
+    "max_donation_limit": 200,
+    "last_donation_date": "2025-05-21",
+    "shortdesp": "A bright yellow canary whose morning songs rival professional opera performances.",
+    "longdesp": "Sunny is most active during dawn and dusk, often inspiring neighborhood birds to join his chorus. His beautiful voice and cheerful disposition brighten every day.",
+    "addedDate": "5/2/2025 10:29:09 PM",
+    "userEmail": "parthgoyal607@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/18591949/pexels-photo-18591949.jpeg",
+    "name": "Ruby",
+    "max_donation_limit": 200,
+    "last_donation_date": "2025-05-21",
+    "shortdesp": "A magnificent male cardinal with brilliant red plumage and a distinctive black mask around his eyes.",
+    "longdesp": "His crest raises and lowers with his emotions, creating an expressive display. Ruby's striking appearance and proud demeanor make him a sight to behold.",
+    "addedDate": "5/2/2025 10:29:11 PM",
+    "userEmail": "priyashah607@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg",
+    "name": "Kiwi",
+    "max_donation_limit": 1000,
+    "last_donation_date": "2025-05-04",
+    "shortdesp": "A vibrant green budgerigar with yellow head markings and black wing stripes.",
+    "longdesp": "Kiwi has learned to mimic phone rings, door bells, and microwave beeps perfectly. His vocal abilities and playful nature make him an entertaining companion.",
+    "addedDate": "5/3/2025 11:56:21 AM",
+    "userEmail": "kayli@gmail.com",
+    "pause": false
+  },
+  {
+    "image": "https://images.pexels.com/photos/17811/pexels-photo.jpg",
+    "name": "Snoopy",
+    "max_donation_limit": 2000,
+    "last_donation_date": "2025-02-12",
+    "shortdesp": "A black and white border collie whose intelligence borders on supernatural levels.",
+    "longdesp": "Snoopy herds everything from children to cats to vacuum cleaners, using gentle but persistent techniques. His intelligence and herding instincts make him a remarkable companion.",
+    "addedDate": "5/10/2025 5:28:15 PM",
+    "userEmail": "pranavsaijale@gmail.com",
+    "pause": false
+  }
+]
