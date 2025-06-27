@@ -1,9 +1,15 @@
 {
   "version": 2,
   "builds": [
-    { "src": "api/pets.js", "use": "@vercel/node" }
+    {
+      "src": "api/pets.js",
+      "use": "@vercel/node"
+    }
   ],
   "routes": [
-    { "src": "/api/pets", "dest": "api/pets.js" }
+    {
+      "src": "/(.*)",
+      "dest": "/api/pets.js"
+    }
   ]
 }
